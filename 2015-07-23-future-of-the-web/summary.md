@@ -1,9 +1,10 @@
-h3. Future of the Web
+## Future of the Web
 
-*Audience:*
+### Audience:
+
 Web Developers familiar with MVC frameworks and ES4/5
 
-*Summary:*
+### Summary:
 
 The web is rapidly changing and evolving. Tech keeps coming to make our jobs “easy." This web thing, it shouldn’t be hard. Right? Well..
 

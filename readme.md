@@ -1,4 +1,4 @@
-h3. Presentations
+## Presentations
 
 This repository is just a place to start keeping files from various presentations I do.
 
